@@ -1,0 +1,757 @@
+fecha,mes,municipio,bebida,festividad,unidades_vendidas
+2024-01-01,1,Guadalajara,Sidral Aga,1,4826
+2024-01-01,1,Guadalajara,Squirt,1,4827
+2024-01-01,1,Guadalajara,Zubba,1,4974
+2024-01-01,1,Guadalajara,Red Cola,1,4885
+2024-01-01,1,Guadalajara,Caballitos,1,4678
+2024-01-01,1,Guadalajara,Skarch,1,4771
+2024-01-01,1,Guadalajara,Jarritos,1,4618
+2024-01-01,1,Zapopan,Sidral Aga,1,4913
+2024-01-01,1,Zapopan,Squirt,1,4742
+2024-01-01,1,Zapopan,Zubba,1,5162
+2024-01-01,1,Zapopan,Red Cola,1,4933
+2024-01-01,1,Zapopan,Caballitos,1,5027
+2024-01-01,1,Zapopan,Skarch,1,5112
+2024-01-01,1,Zapopan,Jarritos,1,4700
+2024-01-01,1,Tlaquepaque,Sidral Aga,1,5021
+2024-01-01,1,Tlaquepaque,Squirt,1,5033
+2024-01-01,1,Tlaquepaque,Zubba,1,5343
+2024-01-01,1,Tlaquepaque,Red Cola,1,5065
+2024-01-01,1,Tlaquepaque,Caballitos,1,4776
+2024-01-01,1,Tlaquepaque,Skarch,1,4642
+2024-01-01,1,Tlaquepaque,Jarritos,1,4911
+2024-01-01,1,Tonalá,Sidral Aga,1,5051
+2024-01-01,1,Tonalá,Squirt,1,4968
+2024-01-01,1,Tonalá,Zubba,1,4689
+2024-01-01,1,Tonalá,Red Cola,1,4992
+2024-01-01,1,Tonalá,Caballitos,1,5269
+2024-01-01,1,Tonalá,Skarch,1,4802
+2024-01-01,1,Tonalá,Jarritos,1,4729
+2024-01-01,1,Tlajomulco,Sidral Aga,1,5347
+2024-01-01,1,Tlajomulco,Squirt,1,4965
+2024-01-01,1,Tlajomulco,Zubba,1,4886
+2024-01-01,1,Tlajomulco,Red Cola,1,4947
+2024-01-01,1,Tlajomulco,Caballitos,1,5426
+2024-01-01,1,Tlajomulco,Skarch,1,4849
+2024-01-01,1,Tlajomulco,Jarritos,1,5223
+2024-01-01,1,El Salto,Sidral Aga,1,4790
+2024-01-01,1,El Salto,Squirt,1,4561
+2024-01-01,1,El Salto,Zubba,1,5208
+2024-01-01,1,El Salto,Red Cola,1,5069
+2024-01-01,1,El Salto,Caballitos,1,5286
+2024-01-01,1,El Salto,Skarch,1,5068
+2024-01-01,1,El Salto,Jarritos,1,4454
+2024-01-01,1,Juanacatlán,Sidral Aga,1,5009
+2024-01-01,1,Juanacatlán,Squirt,1,5286
+2024-01-01,1,Juanacatlán,Zubba,1,4960
+2024-01-01,1,Juanacatlán,Red Cola,1,5148
+2024-01-01,1,Juanacatlán,Caballitos,1,4609
+2024-01-01,1,Juanacatlán,Skarch,1,5090
+2024-01-01,1,Juanacatlán,Jarritos,1,4558
+2024-01-01,1,Ixtlahuacán,Sidral Aga,1,5193
+2024-01-01,1,Ixtlahuacán,Squirt,1,4670
+2024-01-01,1,Ixtlahuacán,Zubba,1,5372
+2024-01-01,1,Ixtlahuacán,Red Cola,1,5220
+2024-01-01,1,Ixtlahuacán,Caballitos,1,5384
+2024-01-01,1,Ixtlahuacán,Skarch,1,4758
+2024-01-01,1,Ixtlahuacán,Jarritos,1,5044
+2024-01-01,1,Zapotlanejo,Sidral Aga,1,5051
+2024-01-01,1,Zapotlanejo,Squirt,1,4708
+2024-01-01,1,Zapotlanejo,Zubba,1,5071
+2024-01-01,1,Zapotlanejo,Red Cola,1,5240
+2024-01-01,1,Zapotlanejo,Caballitos,1,5032
+2024-01-01,1,Zapotlanejo,Skarch,1,4645
+2024-01-01,1,Zapotlanejo,Jarritos,1,5035
+2024-02-01,2,Guadalajara,Sidral Aga,1,4570
+2024-02-01,2,Guadalajara,Squirt,1,4735
+2024-02-01,2,Guadalajara,Zubba,1,4734
+2024-02-01,2,Guadalajara,Red Cola,1,4467
+2024-02-01,2,Guadalajara,Caballitos,1,4724
+2024-02-01,2,Guadalajara,Skarch,1,4687
+2024-02-01,2,Guadalajara,Jarritos,1,4645
+2024-02-01,2,Zapopan,Sidral Aga,1,4642
+2024-02-01,2,Zapopan,Squirt,1,4744
+2024-02-01,2,Zapopan,Zubba,1,4817
+2024-02-01,2,Zapopan,Red Cola,1,4869
+2024-02-01,2,Zapopan,Caballitos,1,4573
+2024-02-01,2,Zapopan,Skarch,1,4680
+2024-02-01,2,Zapopan,Jarritos,1,4738
+2024-02-01,2,Tlaquepaque,Sidral Aga,1,4920
+2024-02-01,2,Tlaquepaque,Squirt,1,4572
+2024-02-01,2,Tlaquepaque,Zubba,1,5080
+2024-02-01,2,Tlaquepaque,Red Cola,1,4859
+2024-02-01,2,Tlaquepaque,Caballitos,1,5189
+2024-02-01,2,Tlaquepaque,Skarch,1,5109
+2024-02-01,2,Tlaquepaque,Jarritos,1,4470
+2024-02-01,2,Tonalá,Sidral Aga,1,4490
+2024-02-01,2,Tonalá,Squirt,1,4658
+2024-02-01,2,Tonalá,Zubba,1,5005
+2024-02-01,2,Tonalá,Red Cola,1,4606
+2024-02-01,2,Tonalá,Caballitos,1,4914
+2024-02-01,2,Tonalá,Skarch,1,4640
+2024-02-01,2,Tonalá,Jarritos,1,4538
+2024-02-01,2,Tlajomulco,Sidral Aga,1,4792
+2024-02-01,2,Tlajomulco,Squirt,1,5142
+2024-02-01,2,Tlajomulco,Zubba,1,4766
+2024-02-01,2,Tlajomulco,Red Cola,1,4429
+2024-02-01,2,Tlajomulco,Caballitos,1,4690
+2024-02-01,2,Tlajomulco,Skarch,1,4682
+2024-02-01,2,Tlajomulco,Jarritos,1,4956
+2024-02-01,2,El Salto,Sidral Aga,1,4750
+2024-02-01,2,El Salto,Squirt,1,4649
+2024-02-01,2,El Salto,Zubba,1,5320
+2024-02-01,2,El Salto,Red Cola,1,4937
+2024-02-01,2,El Salto,Caballitos,1,4490
+2024-02-01,2,El Salto,Skarch,1,5052
+2024-02-01,2,El Salto,Jarritos,1,4800
+2024-02-01,2,Juanacatlán,Sidral Aga,1,4619
+2024-02-01,2,Juanacatlán,Squirt,1,4801
+2024-02-01,2,Juanacatlán,Zubba,1,4500
+2024-02-01,2,Juanacatlán,Red Cola,1,4648
+2024-02-01,2,Juanacatlán,Caballitos,1,4709
+2024-02-01,2,Juanacatlán,Skarch,1,4451
+2024-02-01,2,Juanacatlán,Jarritos,1,4424
+2024-02-01,2,Ixtlahuacán,Sidral Aga,1,4995
+2024-02-01,2,Ixtlahuacán,Squirt,1,4186
+2024-02-01,2,Ixtlahuacán,Zubba,1,4530
+2024-02-01,2,Ixtlahuacán,Red Cola,1,4696
+2024-02-01,2,Ixtlahuacán,Caballitos,1,4754
+2024-02-01,2,Ixtlahuacán,Skarch,1,4901
+2024-02-01,2,Ixtlahuacán,Jarritos,1,4700
+2024-02-01,2,Zapotlanejo,Sidral Aga,1,4295
+2024-02-01,2,Zapotlanejo,Squirt,1,4881
+2024-02-01,2,Zapotlanejo,Zubba,1,4995
+2024-02-01,2,Zapotlanejo,Red Cola,1,4746
+2024-02-01,2,Zapotlanejo,Caballitos,1,4159
+2024-02-01,2,Zapotlanejo,Skarch,1,4554
+2024-02-01,2,Zapotlanejo,Jarritos,1,4751
+2024-03-01,3,Guadalajara,Sidral Aga,1,4832
+2024-03-01,3,Guadalajara,Squirt,1,5013
+2024-03-01,3,Guadalajara,Zubba,1,4961
+2024-03-01,3,Guadalajara,Red Cola,1,5472
+2024-03-01,3,Guadalajara,Caballitos,1,5130
+2024-03-01,3,Guadalajara,Skarch,1,5273
+2024-03-01,3,Guadalajara,Jarritos,1,4978
+2024-03-01,3,Zapopan,Sidral Aga,1,5514
+2024-03-01,3,Zapopan,Squirt,1,5749
+2024-03-01,3,Zapopan,Zubba,1,5222
+2024-03-01,3,Zapopan,Red Cola,1,5455
+2024-03-01,3,Zapopan,Caballitos,1,5527
+2024-03-01,3,Zapopan,Skarch,1,4757
+2024-03-01,3,Zapopan,Jarritos,1,5352
+2024-03-01,3,Tlaquepaque,Sidral Aga,1,5289
+2024-03-01,3,Tlaquepaque,Squirt,1,5363
+2024-03-01,3,Tlaquepaque,Zubba,1,4824
+2024-03-01,3,Tlaquepaque,Red Cola,1,5022
+2024-03-01,3,Tlaquepaque,Caballitos,1,5356
+2024-03-01,3,Tlaquepaque,Skarch,1,5308
+2024-03-01,3,Tlaquepaque,Jarritos,1,5900
+2024-03-01,3,Tonalá,Sidral Aga,1,4935
+2024-03-01,3,Tonalá,Squirt,1,5462
+2024-03-01,3,Tonalá,Zubba,1,5083
+2024-03-01,3,Tonalá,Red Cola,1,5314
+2024-03-01,3,Tonalá,Caballitos,1,5109
+2024-03-01,3,Tonalá,Skarch,1,4924
+2024-03-01,3,Tonalá,Jarritos,1,4885
+2024-03-01,3,Tlajomulco,Sidral Aga,1,5845
+2024-03-01,3,Tlajomulco,Squirt,1,5232
+2024-03-01,3,Tlajomulco,Zubba,1,5303
+2024-03-01,3,Tlajomulco,Red Cola,1,4692
+2024-03-01,3,Tlajomulco,Caballitos,1,5320
+2024-03-01,3,Tlajomulco,Skarch,1,5335
+2024-03-01,3,Tlajomulco,Jarritos,1,5130
+2024-03-01,3,El Salto,Sidral Aga,1,5246
+2024-03-01,3,El Salto,Squirt,1,5164
+2024-03-01,3,El Salto,Zubba,1,5606
+2024-03-01,3,El Salto,Red Cola,1,5208
+2024-03-01,3,El Salto,Caballitos,1,5000
+2024-03-01,3,El Salto,Skarch,1,5830
+2024-03-01,3,El Salto,Jarritos,1,5216
+2024-03-01,3,Juanacatlán,Sidral Aga,1,5091
+2024-03-01,3,Juanacatlán,Squirt,1,5292
+2024-03-01,3,Juanacatlán,Zubba,1,5232
+2024-03-01,3,Juanacatlán,Red Cola,1,4947
+2024-03-01,3,Juanacatlán,Caballitos,1,5070
+2024-03-01,3,Juanacatlán,Skarch,1,5293
+2024-03-01,3,Juanacatlán,Jarritos,1,5501
+2024-03-01,3,Ixtlahuacán,Sidral Aga,1,5205
+2024-03-01,3,Ixtlahuacán,Squirt,1,5570
+2024-03-01,3,Ixtlahuacán,Zubba,1,5200
+2024-03-01,3,Ixtlahuacán,Red Cola,1,5223
+2024-03-01,3,Ixtlahuacán,Caballitos,1,5295
+2024-03-01,3,Ixtlahuacán,Skarch,1,5212
+2024-03-01,3,Ixtlahuacán,Jarritos,1,5186
+2024-03-01,3,Zapotlanejo,Sidral Aga,1,4594
+2024-03-01,3,Zapotlanejo,Squirt,1,5152
+2024-03-01,3,Zapotlanejo,Zubba,1,5126
+2024-03-01,3,Zapotlanejo,Red Cola,1,5596
+2024-03-01,3,Zapotlanejo,Caballitos,1,5125
+2024-03-01,3,Zapotlanejo,Skarch,1,5139
+2024-03-01,3,Zapotlanejo,Jarritos,1,5062
+2024-04-01,4,Guadalajara,Sidral Aga,0,4957
+2024-04-01,4,Guadalajara,Squirt,0,4988
+2024-04-01,4,Guadalajara,Zubba,0,4954
+2024-04-01,4,Guadalajara,Red Cola,0,5647
+2024-04-01,4,Guadalajara,Caballitos,0,4746
+2024-04-01,4,Guadalajara,Skarch,0,5191
+2024-04-01,4,Guadalajara,Jarritos,0,4916
+2024-04-01,4,Zapopan,Sidral Aga,0,5093
+2024-04-01,4,Zapopan,Squirt,0,5131
+2024-04-01,4,Zapopan,Zubba,0,4835
+2024-04-01,4,Zapopan,Red Cola,0,5109
+2024-04-01,4,Zapopan,Caballitos,0,5219
+2024-04-01,4,Zapopan,Skarch,0,5127
+2024-04-01,4,Zapopan,Jarritos,0,4715
+2024-04-01,4,Tlaquepaque,Sidral Aga,0,5046
+2024-04-01,4,Tlaquepaque,Squirt,0,5107
+2024-04-01,4,Tlaquepaque,Zubba,0,5145
+2024-04-01,4,Tlaquepaque,Red Cola,0,5067
+2024-04-01,4,Tlaquepaque,Caballitos,0,4908
+2024-04-01,4,Tlaquepaque,Skarch,0,4572
+2024-04-01,4,Tlaquepaque,Jarritos,0,5112
+2024-04-01,4,Tonalá,Sidral Aga,0,4919
+2024-04-01,4,Tonalá,Squirt,0,4653
+2024-04-01,4,Tonalá,Zubba,0,4721
+2024-04-01,4,Tonalá,Red Cola,0,5383
+2024-04-01,4,Tonalá,Caballitos,0,5105
+2024-04-01,4,Tonalá,Skarch,0,5231
+2024-04-01,4,Tonalá,Jarritos,0,5397
+2024-04-01,4,Tlajomulco,Sidral Aga,0,4567
+2024-04-01,4,Tlajomulco,Squirt,0,4954
+2024-04-01,4,Tlajomulco,Zubba,0,5174
+2024-04-01,4,Tlajomulco,Red Cola,0,5434
+2024-04-01,4,Tlajomulco,Caballitos,0,5155
+2024-04-01,4,Tlajomulco,Skarch,0,5384
+2024-04-01,4,Tlajomulco,Jarritos,0,5327
+2024-04-01,4,El Salto,Sidral Aga,0,4901
+2024-04-01,4,El Salto,Squirt,0,5288
+2024-04-01,4,El Salto,Zubba,0,4746
+2024-04-01,4,El Salto,Red Cola,0,4658
+2024-04-01,4,El Salto,Caballitos,0,5453
+2024-04-01,4,El Salto,Skarch,0,4621
+2024-04-01,4,El Salto,Jarritos,0,4966
+2024-04-01,4,Juanacatlán,Sidral Aga,0,5337
+2024-04-01,4,Juanacatlán,Squirt,0,5046
+2024-04-01,4,Juanacatlán,Zubba,0,5461
+2024-04-01,4,Juanacatlán,Red Cola,0,5364
+2024-04-01,4,Juanacatlán,Caballitos,0,5529
+2024-04-01,4,Juanacatlán,Skarch,0,5272
+2024-04-01,4,Juanacatlán,Jarritos,0,5497
+2024-04-01,4,Ixtlahuacán,Sidral Aga,0,5279
+2024-04-01,4,Ixtlahuacán,Squirt,0,5352
+2024-04-01,4,Ixtlahuacán,Zubba,0,4732
+2024-04-01,4,Ixtlahuacán,Red Cola,0,5194
+2024-04-01,4,Ixtlahuacán,Caballitos,0,4739
+2024-04-01,4,Ixtlahuacán,Skarch,0,4690
+2024-04-01,4,Ixtlahuacán,Jarritos,0,5486
+2024-04-01,4,Zapotlanejo,Sidral Aga,0,4804
+2024-04-01,4,Zapotlanejo,Squirt,0,4914
+2024-04-01,4,Zapotlanejo,Zubba,0,4799
+2024-04-01,4,Zapotlanejo,Red Cola,0,5517
+2024-04-01,4,Zapotlanejo,Caballitos,0,4917
+2024-04-01,4,Zapotlanejo,Skarch,0,5188
+2024-04-01,4,Zapotlanejo,Jarritos,0,4706
+2024-05-01,5,Guadalajara,Sidral Aga,1,5657
+2024-05-01,5,Guadalajara,Squirt,1,5555
+2024-05-01,5,Guadalajara,Zubba,1,5492
+2024-05-01,5,Guadalajara,Red Cola,1,5497
+2024-05-01,5,Guadalajara,Caballitos,1,5590
+2024-05-01,5,Guadalajara,Skarch,1,6026
+2024-05-01,5,Guadalajara,Jarritos,1,5817
+2024-05-01,5,Zapopan,Sidral Aga,1,5544
+2024-05-01,5,Zapopan,Squirt,1,5471
+2024-05-01,5,Zapopan,Zubba,1,5478
+2024-05-01,5,Zapopan,Red Cola,1,5907
+2024-05-01,5,Zapopan,Caballitos,1,5372
+2024-05-01,5,Zapopan,Skarch,1,5376
+2024-05-01,5,Zapopan,Jarritos,1,5277
+2024-05-01,5,Tlaquepaque,Sidral Aga,1,5585
+2024-05-01,5,Tlaquepaque,Squirt,1,5496
+2024-05-01,5,Tlaquepaque,Zubba,1,5337
+2024-05-01,5,Tlaquepaque,Red Cola,1,5729
+2024-05-01,5,Tlaquepaque,Caballitos,1,5566
+2024-05-01,5,Tlaquepaque,Skarch,1,5552
+2024-05-01,5,Tlaquepaque,Jarritos,1,5376
+2024-05-01,5,Tonalá,Sidral Aga,1,5278
+2024-05-01,5,Tonalá,Squirt,1,5470
+2024-05-01,5,Tonalá,Zubba,1,5419
+2024-05-01,5,Tonalá,Red Cola,1,5604
+2024-05-01,5,Tonalá,Caballitos,1,5016
+2024-05-01,5,Tonalá,Skarch,1,5681
+2024-05-01,5,Tonalá,Jarritos,1,5811
+2024-05-01,5,Tlajomulco,Sidral Aga,1,5826
+2024-05-01,5,Tlajomulco,Squirt,1,5406
+2024-05-01,5,Tlajomulco,Zubba,1,5858
+2024-05-01,5,Tlajomulco,Red Cola,1,6021
+2024-05-01,5,Tlajomulco,Caballitos,1,5799
+2024-05-01,5,Tlajomulco,Skarch,1,5401
+2024-05-01,5,Tlajomulco,Jarritos,1,5748
+2024-05-01,5,El Salto,Sidral Aga,1,5594
+2024-05-01,5,El Salto,Squirt,1,5794
+2024-05-01,5,El Salto,Zubba,1,5597
+2024-05-01,5,El Salto,Red Cola,1,5489
+2024-05-01,5,El Salto,Caballitos,1,5952
+2024-05-01,5,El Salto,Skarch,1,5475
+2024-05-01,5,El Salto,Jarritos,1,5212
+2024-05-01,5,Juanacatlán,Sidral Aga,1,5315
+2024-05-01,5,Juanacatlán,Squirt,1,5590
+2024-05-01,5,Juanacatlán,Zubba,1,5753
+2024-05-01,5,Juanacatlán,Red Cola,1,5775
+2024-05-01,5,Juanacatlán,Caballitos,1,5650
+2024-05-01,5,Juanacatlán,Skarch,1,4897
+2024-05-01,5,Juanacatlán,Jarritos,1,5380
+2024-05-01,5,Ixtlahuacán,Sidral Aga,1,5785
+2024-05-01,5,Ixtlahuacán,Squirt,1,5572
+2024-05-01,5,Ixtlahuacán,Zubba,1,5553
+2024-05-01,5,Ixtlahuacán,Red Cola,1,5586
+2024-05-01,5,Ixtlahuacán,Caballitos,1,5948
+2024-05-01,5,Ixtlahuacán,Skarch,1,5456
+2024-05-01,5,Ixtlahuacán,Jarritos,1,5144
+2024-05-01,5,Zapotlanejo,Sidral Aga,1,5935
+2024-05-01,5,Zapotlanejo,Squirt,1,5966
+2024-05-01,5,Zapotlanejo,Zubba,1,5712
+2024-05-01,5,Zapotlanejo,Red Cola,1,5524
+2024-05-01,5,Zapotlanejo,Caballitos,1,5309
+2024-05-01,5,Zapotlanejo,Skarch,1,5053
+2024-05-01,5,Zapotlanejo,Jarritos,1,5834
+2024-06-01,6,Guadalajara,Sidral Aga,1,5840
+2024-06-01,6,Guadalajara,Squirt,1,5572
+2024-06-01,6,Guadalajara,Zubba,1,6089
+2024-06-01,6,Guadalajara,Red Cola,1,5679
+2024-06-01,6,Guadalajara,Caballitos,1,5617
+2024-06-01,6,Guadalajara,Skarch,1,5646
+2024-06-01,6,Guadalajara,Jarritos,1,5513
+2024-06-01,6,Zapopan,Sidral Aga,1,5360
+2024-06-01,6,Zapopan,Squirt,1,5446
+2024-06-01,6,Zapopan,Zubba,1,5654
+2024-06-01,6,Zapopan,Red Cola,1,5710
+2024-06-01,6,Zapopan,Caballitos,1,5146
+2024-06-01,6,Zapopan,Skarch,1,5826
+2024-06-01,6,Zapopan,Jarritos,1,5565
+2024-06-01,6,Tlaquepaque,Sidral Aga,1,5411
+2024-06-01,6,Tlaquepaque,Squirt,1,5586
+2024-06-01,6,Tlaquepaque,Zubba,1,5504
+2024-06-01,6,Tlaquepaque,Red Cola,1,5611
+2024-06-01,6,Tlaquepaque,Caballitos,1,6142
+2024-06-01,6,Tlaquepaque,Skarch,1,5518
+2024-06-01,6,Tlaquepaque,Jarritos,1,5711
+2024-06-01,6,Tonalá,Sidral Aga,1,5302
+2024-06-01,6,Tonalá,Squirt,1,5735
+2024-06-01,6,Tonalá,Zubba,1,5053
+2024-06-01,6,Tonalá,Red Cola,1,5209
+2024-06-01,6,Tonalá,Caballitos,1,5551
+2024-06-01,6,Tonalá,Skarch,1,5501
+2024-06-01,6,Tonalá,Jarritos,1,5181
+2024-06-01,6,Tlajomulco,Sidral Aga,1,5529
+2024-06-01,6,Tlajomulco,Squirt,1,5501
+2024-06-01,6,Tlajomulco,Zubba,1,5456
+2024-06-01,6,Tlajomulco,Red Cola,1,4751
+2024-06-01,6,Tlajomulco,Caballitos,1,5319
+2024-06-01,6,Tlajomulco,Skarch,1,5651
+2024-06-01,6,Tlajomulco,Jarritos,1,5484
+2024-06-01,6,El Salto,Sidral Aga,1,5477
+2024-06-01,6,El Salto,Squirt,1,5273
+2024-06-01,6,El Salto,Zubba,1,5982
+2024-06-01,6,El Salto,Red Cola,1,4496
+2024-06-01,6,El Salto,Caballitos,1,5468
+2024-06-01,6,El Salto,Skarch,1,4954
+2024-06-01,6,El Salto,Jarritos,1,5440
+2024-06-01,6,Juanacatlán,Sidral Aga,1,6036
+2024-06-01,6,Juanacatlán,Squirt,1,5191
+2024-06-01,6,Juanacatlán,Zubba,1,5530
+2024-06-01,6,Juanacatlán,Red Cola,1,5042
+2024-06-01,6,Juanacatlán,Caballitos,1,5240
+2024-06-01,6,Juanacatlán,Skarch,1,5637
+2024-06-01,6,Juanacatlán,Jarritos,1,5362
+2024-06-01,6,Ixtlahuacán,Sidral Aga,1,5248
+2024-06-01,6,Ixtlahuacán,Squirt,1,5295
+2024-06-01,6,Ixtlahuacán,Zubba,1,5531
+2024-06-01,6,Ixtlahuacán,Red Cola,1,5747
+2024-06-01,6,Ixtlahuacán,Caballitos,1,5657
+2024-06-01,6,Ixtlahuacán,Skarch,1,5587
+2024-06-01,6,Ixtlahuacán,Jarritos,1,5562
+2024-06-01,6,Zapotlanejo,Sidral Aga,1,5223
+2024-06-01,6,Zapotlanejo,Squirt,1,5593
+2024-06-01,6,Zapotlanejo,Zubba,1,5347
+2024-06-01,6,Zapotlanejo,Red Cola,1,5077
+2024-06-01,6,Zapotlanejo,Caballitos,1,5253
+2024-06-01,6,Zapotlanejo,Skarch,1,4873
+2024-06-01,6,Zapotlanejo,Jarritos,1,5336
+2024-07-01,7,Guadalajara,Sidral Aga,1,5647
+2024-07-01,7,Guadalajara,Squirt,1,5565
+2024-07-01,7,Guadalajara,Zubba,1,5555
+2024-07-01,7,Guadalajara,Red Cola,1,6002
+2024-07-01,7,Guadalajara,Caballitos,1,5871
+2024-07-01,7,Guadalajara,Skarch,1,5459
+2024-07-01,7,Guadalajara,Jarritos,1,5823
+2024-07-01,7,Zapopan,Sidral Aga,1,5866
+2024-07-01,7,Zapopan,Squirt,1,5819
+2024-07-01,7,Zapopan,Zubba,1,6100
+2024-07-01,7,Zapopan,Red Cola,1,5670
+2024-07-01,7,Zapopan,Caballitos,1,5879
+2024-07-01,7,Zapopan,Skarch,1,5593
+2024-07-01,7,Zapopan,Jarritos,1,5640
+2024-07-01,7,Tlaquepaque,Sidral Aga,1,5628
+2024-07-01,7,Tlaquepaque,Squirt,1,6239
+2024-07-01,7,Tlaquepaque,Zubba,1,5612
+2024-07-01,7,Tlaquepaque,Red Cola,1,6038
+2024-07-01,7,Tlaquepaque,Caballitos,1,5763
+2024-07-01,7,Tlaquepaque,Skarch,1,5853
+2024-07-01,7,Tlaquepaque,Jarritos,1,5495
+2024-07-01,7,Tonalá,Sidral Aga,1,6130
+2024-07-01,7,Tonalá,Squirt,1,6051
+2024-07-01,7,Tonalá,Zubba,1,5852
+2024-07-01,7,Tonalá,Red Cola,1,5424
+2024-07-01,7,Tonalá,Caballitos,1,5609
+2024-07-01,7,Tonalá,Skarch,1,5459
+2024-07-01,7,Tonalá,Jarritos,1,5682
+2024-07-01,7,Tlajomulco,Sidral Aga,1,6197
+2024-07-01,7,Tlajomulco,Squirt,1,5451
+2024-07-01,7,Tlajomulco,Zubba,1,5585
+2024-07-01,7,Tlajomulco,Red Cola,1,6300
+2024-07-01,7,Tlajomulco,Caballitos,1,5399
+2024-07-01,7,Tlajomulco,Skarch,1,6162
+2024-07-01,7,Tlajomulco,Jarritos,1,5758
+2024-07-01,7,El Salto,Sidral Aga,1,5575
+2024-07-01,7,El Salto,Squirt,1,5871
+2024-07-01,7,El Salto,Zubba,1,5558
+2024-07-01,7,El Salto,Red Cola,1,5553
+2024-07-01,7,El Salto,Caballitos,1,5832
+2024-07-01,7,El Salto,Skarch,1,5315
+2024-07-01,7,El Salto,Jarritos,1,6117
+2024-07-01,7,Juanacatlán,Sidral Aga,1,5794
+2024-07-01,7,Juanacatlán,Squirt,1,5442
+2024-07-01,7,Juanacatlán,Zubba,1,5527
+2024-07-01,7,Juanacatlán,Red Cola,1,5529
+2024-07-01,7,Juanacatlán,Caballitos,1,5632
+2024-07-01,7,Juanacatlán,Skarch,1,5633
+2024-07-01,7,Juanacatlán,Jarritos,1,5916
+2024-07-01,7,Ixtlahuacán,Sidral Aga,1,5646
+2024-07-01,7,Ixtlahuacán,Squirt,1,5728
+2024-07-01,7,Ixtlahuacán,Zubba,1,5907
+2024-07-01,7,Ixtlahuacán,Red Cola,1,5358
+2024-07-01,7,Ixtlahuacán,Caballitos,1,5728
+2024-07-01,7,Ixtlahuacán,Skarch,1,5333
+2024-07-01,7,Ixtlahuacán,Jarritos,1,5710
+2024-07-01,7,Zapotlanejo,Sidral Aga,1,6229
+2024-07-01,7,Zapotlanejo,Squirt,1,4958
+2024-07-01,7,Zapotlanejo,Zubba,1,5954
+2024-07-01,7,Zapotlanejo,Red Cola,1,5899
+2024-07-01,7,Zapotlanejo,Caballitos,1,5757
+2024-07-01,7,Zapotlanejo,Skarch,1,5510
+2024-07-01,7,Zapotlanejo,Jarritos,1,6138
+2024-08-01,8,Guadalajara,Sidral Aga,1,5809
+2024-08-01,8,Guadalajara,Squirt,1,5659
+2024-08-01,8,Guadalajara,Zubba,1,5257
+2024-08-01,8,Guadalajara,Red Cola,1,5225
+2024-08-01,8,Guadalajara,Caballitos,1,5360
+2024-08-01,8,Guadalajara,Skarch,1,5755
+2024-08-01,8,Guadalajara,Jarritos,1,5602
+2024-08-01,8,Zapopan,Sidral Aga,1,5192
+2024-08-01,8,Zapopan,Squirt,1,5181
+2024-08-01,8,Zapopan,Zubba,1,5784
+2024-08-01,8,Zapopan,Red Cola,1,5499
+2024-08-01,8,Zapopan,Caballitos,1,5495
+2024-08-01,8,Zapopan,Skarch,1,4982
+2024-08-01,8,Zapopan,Jarritos,1,6149
+2024-08-01,8,Tlaquepaque,Sidral Aga,1,5473
+2024-08-01,8,Tlaquepaque,Squirt,1,5982
+2024-08-01,8,Tlaquepaque,Zubba,1,5696
+2024-08-01,8,Tlaquepaque,Red Cola,1,5615
+2024-08-01,8,Tlaquepaque,Caballitos,1,5308
+2024-08-01,8,Tlaquepaque,Skarch,1,5963
+2024-08-01,8,Tlaquepaque,Jarritos,1,5512
+2024-08-01,8,Tonalá,Sidral Aga,1,5579
+2024-08-01,8,Tonalá,Squirt,1,5409
+2024-08-01,8,Tonalá,Zubba,1,5821
+2024-08-01,8,Tonalá,Red Cola,1,5770
+2024-08-01,8,Tonalá,Caballitos,1,5086
+2024-08-01,8,Tonalá,Skarch,1,5505
+2024-08-01,8,Tonalá,Jarritos,1,5818
+2024-08-01,8,Tlajomulco,Sidral Aga,1,6335
+2024-08-01,8,Tlajomulco,Squirt,1,5161
+2024-08-01,8,Tlajomulco,Zubba,1,5826
+2024-08-01,8,Tlajomulco,Red Cola,1,5458
+2024-08-01,8,Tlajomulco,Caballitos,1,5681
+2024-08-01,8,Tlajomulco,Skarch,1,5507
+2024-08-01,8,Tlajomulco,Jarritos,1,5938
+2024-08-01,8,El Salto,Sidral Aga,1,5625
+2024-08-01,8,El Salto,Squirt,1,5387
+2024-08-01,8,El Salto,Zubba,1,5512
+2024-08-01,8,El Salto,Red Cola,1,5557
+2024-08-01,8,El Salto,Caballitos,1,5280
+2024-08-01,8,El Salto,Skarch,1,5525
+2024-08-01,8,El Salto,Jarritos,1,6038
+2024-08-01,8,Juanacatlán,Sidral Aga,1,5606
+2024-08-01,8,Juanacatlán,Squirt,1,5863
+2024-08-01,8,Juanacatlán,Zubba,1,5763
+2024-08-01,8,Juanacatlán,Red Cola,1,5456
+2024-08-01,8,Juanacatlán,Caballitos,1,5400
+2024-08-01,8,Juanacatlán,Skarch,1,5377
+2024-08-01,8,Juanacatlán,Jarritos,1,5833
+2024-08-01,8,Ixtlahuacán,Sidral Aga,1,5681
+2024-08-01,8,Ixtlahuacán,Squirt,1,5385
+2024-08-01,8,Ixtlahuacán,Zubba,1,5948
+2024-08-01,8,Ixtlahuacán,Red Cola,1,6223
+2024-08-01,8,Ixtlahuacán,Caballitos,1,6270
+2024-08-01,8,Ixtlahuacán,Skarch,1,5505
+2024-08-01,8,Ixtlahuacán,Jarritos,1,5474
+2024-08-01,8,Zapotlanejo,Sidral Aga,1,5546
+2024-08-01,8,Zapotlanejo,Squirt,1,5402
+2024-08-01,8,Zapotlanejo,Zubba,1,4711
+2024-08-01,8,Zapotlanejo,Red Cola,1,5789
+2024-08-01,8,Zapotlanejo,Caballitos,1,5334
+2024-08-01,8,Zapotlanejo,Skarch,1,5876
+2024-08-01,8,Zapotlanejo,Jarritos,1,5808
+2024-09-01,9,Guadalajara,Sidral Aga,1,5828
+2024-09-01,9,Guadalajara,Squirt,1,5880
+2024-09-01,9,Guadalajara,Zubba,1,6282
+2024-09-01,9,Guadalajara,Red Cola,1,5098
+2024-09-01,9,Guadalajara,Caballitos,1,5776
+2024-09-01,9,Guadalajara,Skarch,1,5914
+2024-09-01,9,Guadalajara,Jarritos,1,6313
+2024-09-01,9,Zapopan,Sidral Aga,1,5886
+2024-09-01,9,Zapopan,Squirt,1,6085
+2024-09-01,9,Zapopan,Zubba,1,5618
+2024-09-01,9,Zapopan,Red Cola,1,5818
+2024-09-01,9,Zapopan,Caballitos,1,5867
+2024-09-01,9,Zapopan,Skarch,1,5931
+2024-09-01,9,Zapopan,Jarritos,1,6093
+2024-09-01,9,Tlaquepaque,Sidral Aga,1,5346
+2024-09-01,9,Tlaquepaque,Squirt,1,5706
+2024-09-01,9,Tlaquepaque,Zubba,1,5963
+2024-09-01,9,Tlaquepaque,Red Cola,1,6094
+2024-09-01,9,Tlaquepaque,Caballitos,1,5661
+2024-09-01,9,Tlaquepaque,Skarch,1,6094
+2024-09-01,9,Tlaquepaque,Jarritos,1,5883
+2024-09-01,9,Tonalá,Sidral Aga,1,6091
+2024-09-01,9,Tonalá,Squirt,1,6456
+2024-09-01,9,Tonalá,Zubba,1,5762
+2024-09-01,9,Tonalá,Red Cola,1,5713
+2024-09-01,9,Tonalá,Caballitos,1,5779
+2024-09-01,9,Tonalá,Skarch,1,5461
+2024-09-01,9,Tonalá,Jarritos,1,5935
+2024-09-01,9,Tlajomulco,Sidral Aga,1,5925
+2024-09-01,9,Tlajomulco,Squirt,1,5855
+2024-09-01,9,Tlajomulco,Zubba,1,5612
+2024-09-01,9,Tlajomulco,Red Cola,1,5805
+2024-09-01,9,Tlajomulco,Caballitos,1,6238
+2024-09-01,9,Tlajomulco,Skarch,1,5923
+2024-09-01,9,Tlajomulco,Jarritos,1,5808
+2024-09-01,9,El Salto,Sidral Aga,1,6091
+2024-09-01,9,El Salto,Squirt,1,5939
+2024-09-01,9,El Salto,Zubba,1,5396
+2024-09-01,9,El Salto,Red Cola,1,5492
+2024-09-01,9,El Salto,Caballitos,1,6004
+2024-09-01,9,El Salto,Skarch,1,5192
+2024-09-01,9,El Salto,Jarritos,1,5470
+2024-09-01,9,Juanacatlán,Sidral Aga,1,5621
+2024-09-01,9,Juanacatlán,Squirt,1,5694
+2024-09-01,9,Juanacatlán,Zubba,1,5946
+2024-09-01,9,Juanacatlán,Red Cola,1,5981
+2024-09-01,9,Juanacatlán,Caballitos,1,6030
+2024-09-01,9,Juanacatlán,Skarch,1,5258
+2024-09-01,9,Juanacatlán,Jarritos,1,5609
+2024-09-01,9,Ixtlahuacán,Sidral Aga,1,6261
+2024-09-01,9,Ixtlahuacán,Squirt,1,5739
+2024-09-01,9,Ixtlahuacán,Zubba,1,5593
+2024-09-01,9,Ixtlahuacán,Red Cola,1,5521
+2024-09-01,9,Ixtlahuacán,Caballitos,1,6154
+2024-09-01,9,Ixtlahuacán,Skarch,1,6119
+2024-09-01,9,Ixtlahuacán,Jarritos,1,5726
+2024-09-01,9,Zapotlanejo,Sidral Aga,1,5932
+2024-09-01,9,Zapotlanejo,Squirt,1,5409
+2024-09-01,9,Zapotlanejo,Zubba,1,6144
+2024-09-01,9,Zapotlanejo,Red Cola,1,5768
+2024-09-01,9,Zapotlanejo,Caballitos,1,6108
+2024-09-01,9,Zapotlanejo,Skarch,1,5867
+2024-09-01,9,Zapotlanejo,Jarritos,1,5380
+2024-10-01,10,Guadalajara,Sidral Aga,1,6349
+2024-10-01,10,Guadalajara,Squirt,1,5624
+2024-10-01,10,Guadalajara,Zubba,1,6067
+2024-10-01,10,Guadalajara,Red Cola,1,6423
+2024-10-01,10,Guadalajara,Caballitos,1,5956
+2024-10-01,10,Guadalajara,Skarch,1,6325
+2024-10-01,10,Guadalajara,Jarritos,1,5863
+2024-10-01,10,Zapopan,Sidral Aga,1,5879
+2024-10-01,10,Zapopan,Squirt,1,6054
+2024-10-01,10,Zapopan,Zubba,1,6646
+2024-10-01,10,Zapopan,Red Cola,1,6600
+2024-10-01,10,Zapopan,Caballitos,1,5954
+2024-10-01,10,Zapopan,Skarch,1,6330
+2024-10-01,10,Zapopan,Jarritos,1,5904
+2024-10-01,10,Tlaquepaque,Sidral Aga,1,6046
+2024-10-01,10,Tlaquepaque,Squirt,1,6225
+2024-10-01,10,Tlaquepaque,Zubba,1,6201
+2024-10-01,10,Tlaquepaque,Red Cola,1,6099
+2024-10-01,10,Tlaquepaque,Caballitos,1,6011
+2024-10-01,10,Tlaquepaque,Skarch,1,6406
+2024-10-01,10,Tlaquepaque,Jarritos,1,6105
+2024-10-01,10,Tonalá,Sidral Aga,1,6014
+2024-10-01,10,Tonalá,Squirt,1,5886
+2024-10-01,10,Tonalá,Zubba,1,6160
+2024-10-01,10,Tonalá,Red Cola,1,6374
+2024-10-01,10,Tonalá,Caballitos,1,6394
+2024-10-01,10,Tonalá,Skarch,1,5970
+2024-10-01,10,Tonalá,Jarritos,1,6274
+2024-10-01,10,Tlajomulco,Sidral Aga,1,5910
+2024-10-01,10,Tlajomulco,Squirt,1,5955
+2024-10-01,10,Tlajomulco,Zubba,1,5880
+2024-10-01,10,Tlajomulco,Red Cola,1,6569
+2024-10-01,10,Tlajomulco,Caballitos,1,5882
+2024-10-01,10,Tlajomulco,Skarch,1,6675
+2024-10-01,10,Tlajomulco,Jarritos,1,5723
+2024-10-01,10,El Salto,Sidral Aga,1,6402
+2024-10-01,10,El Salto,Squirt,1,6366
+2024-10-01,10,El Salto,Zubba,1,5966
+2024-10-01,10,El Salto,Red Cola,1,5960
+2024-10-01,10,El Salto,Caballitos,1,6768
+2024-10-01,10,El Salto,Skarch,1,6170
+2024-10-01,10,El Salto,Jarritos,1,6302
+2024-10-01,10,Juanacatlán,Sidral Aga,1,6339
+2024-10-01,10,Juanacatlán,Squirt,1,6151
+2024-10-01,10,Juanacatlán,Zubba,1,6120
+2024-10-01,10,Juanacatlán,Red Cola,1,6048
+2024-10-01,10,Juanacatlán,Caballitos,1,6405
+2024-10-01,10,Juanacatlán,Skarch,1,6246
+2024-10-01,10,Juanacatlán,Jarritos,1,5880
+2024-10-01,10,Ixtlahuacán,Sidral Aga,1,6593
+2024-10-01,10,Ixtlahuacán,Squirt,1,5422
+2024-10-01,10,Ixtlahuacán,Zubba,1,5847
+2024-10-01,10,Ixtlahuacán,Red Cola,1,6359
+2024-10-01,10,Ixtlahuacán,Caballitos,1,5952
+2024-10-01,10,Ixtlahuacán,Skarch,1,6240
+2024-10-01,10,Ixtlahuacán,Jarritos,1,5789
+2024-10-01,10,Zapotlanejo,Sidral Aga,1,6082
+2024-10-01,10,Zapotlanejo,Squirt,1,6371
+2024-10-01,10,Zapotlanejo,Zubba,1,5957
+2024-10-01,10,Zapotlanejo,Red Cola,1,6800
+2024-10-01,10,Zapotlanejo,Caballitos,1,5788
+2024-10-01,10,Zapotlanejo,Skarch,1,5370
+2024-10-01,10,Zapotlanejo,Jarritos,1,6272
+2024-11-01,11,Guadalajara,Sidral Aga,1,6690
+2024-11-01,11,Guadalajara,Squirt,1,5980
+2024-11-01,11,Guadalajara,Zubba,1,6293
+2024-11-01,11,Guadalajara,Red Cola,1,5414
+2024-11-01,11,Guadalajara,Caballitos,1,5709
+2024-11-01,11,Guadalajara,Skarch,1,5850
+2024-11-01,11,Guadalajara,Jarritos,1,5740
+2024-11-01,11,Zapopan,Sidral Aga,1,6463
+2024-11-01,11,Zapopan,Squirt,1,5533
+2024-11-01,11,Zapopan,Zubba,1,5784
+2024-11-01,11,Zapopan,Red Cola,1,5805
+2024-11-01,11,Zapopan,Caballitos,1,6153
+2024-11-01,11,Zapopan,Skarch,1,5791
+2024-11-01,11,Zapopan,Jarritos,1,6175
+2024-11-01,11,Tlaquepaque,Sidral Aga,1,6207
+2024-11-01,11,Tlaquepaque,Squirt,1,6172
+2024-11-01,11,Tlaquepaque,Zubba,1,6299
+2024-11-01,11,Tlaquepaque,Red Cola,1,5873
+2024-11-01,11,Tlaquepaque,Caballitos,1,6227
+2024-11-01,11,Tlaquepaque,Skarch,1,6469
+2024-11-01,11,Tlaquepaque,Jarritos,1,6047
+2024-11-01,11,Tonalá,Sidral Aga,1,6482
+2024-11-01,11,Tonalá,Squirt,1,5953
+2024-11-01,11,Tonalá,Zubba,1,5765
+2024-11-01,11,Tonalá,Red Cola,1,6126
+2024-11-01,11,Tonalá,Caballitos,1,5462
+2024-11-01,11,Tonalá,Skarch,1,6035
+2024-11-01,11,Tonalá,Jarritos,1,5742
+2024-11-01,11,Tlajomulco,Sidral Aga,1,6105
+2024-11-01,11,Tlajomulco,Squirt,1,5855
+2024-11-01,11,Tlajomulco,Zubba,1,6295
+2024-11-01,11,Tlajomulco,Red Cola,1,5692
+2024-11-01,11,Tlajomulco,Caballitos,1,6220
+2024-11-01,11,Tlajomulco,Skarch,1,6125
+2024-11-01,11,Tlajomulco,Jarritos,1,6076
+2024-11-01,11,El Salto,Sidral Aga,1,6154
+2024-11-01,11,El Salto,Squirt,1,6172
+2024-11-01,11,El Salto,Zubba,1,5690
+2024-11-01,11,El Salto,Red Cola,1,5884
+2024-11-01,11,El Salto,Caballitos,1,5637
+2024-11-01,11,El Salto,Skarch,1,5658
+2024-11-01,11,El Salto,Jarritos,1,6162
+2024-11-01,11,Juanacatlán,Sidral Aga,1,5548
+2024-11-01,11,Juanacatlán,Squirt,1,6156
+2024-11-01,11,Juanacatlán,Zubba,1,5776
+2024-11-01,11,Juanacatlán,Red Cola,1,5893
+2024-11-01,11,Juanacatlán,Caballitos,1,5337
+2024-11-01,11,Juanacatlán,Skarch,1,6195
+2024-11-01,11,Juanacatlán,Jarritos,1,6052
+2024-11-01,11,Ixtlahuacán,Sidral Aga,1,5721
+2024-11-01,11,Ixtlahuacán,Squirt,1,5743
+2024-11-01,11,Ixtlahuacán,Zubba,1,6081
+2024-11-01,11,Ixtlahuacán,Red Cola,1,5949
+2024-11-01,11,Ixtlahuacán,Caballitos,1,6327
+2024-11-01,11,Ixtlahuacán,Skarch,1,5619
+2024-11-01,11,Ixtlahuacán,Jarritos,1,6052
+2024-11-01,11,Zapotlanejo,Sidral Aga,1,6189
+2024-11-01,11,Zapotlanejo,Squirt,1,5909
+2024-11-01,11,Zapotlanejo,Zubba,1,6276
+2024-11-01,11,Zapotlanejo,Red Cola,1,6213
+2024-11-01,11,Zapotlanejo,Caballitos,1,5965
+2024-11-01,11,Zapotlanejo,Skarch,1,5914
+2024-11-01,11,Zapotlanejo,Jarritos,1,5897
+2024-12-01,12,Guadalajara,Sidral Aga,1,6250
+2024-12-01,12,Guadalajara,Squirt,1,6603
+2024-12-01,12,Guadalajara,Zubba,1,6925
+2024-12-01,12,Guadalajara,Red Cola,1,6278
+2024-12-01,12,Guadalajara,Caballitos,1,6550
+2024-12-01,12,Guadalajara,Skarch,1,6467
+2024-12-01,12,Guadalajara,Jarritos,1,6317
+2024-12-01,12,Zapopan,Sidral Aga,1,6364
+2024-12-01,12,Zapopan,Squirt,1,6730
+2024-12-01,12,Zapopan,Zubba,1,6756
+2024-12-01,12,Zapopan,Red Cola,1,6086
+2024-12-01,12,Zapopan,Caballitos,1,5793
+2024-12-01,12,Zapopan,Skarch,1,6500
+2024-12-01,12,Zapopan,Jarritos,1,6868
+2024-12-01,12,Tlaquepaque,Sidral Aga,1,6023
+2024-12-01,12,Tlaquepaque,Squirt,1,6837
+2024-12-01,12,Tlaquepaque,Zubba,1,6664
+2024-12-01,12,Tlaquepaque,Red Cola,1,6400
+2024-12-01,12,Tlaquepaque,Caballitos,1,5852
+2024-12-01,12,Tlaquepaque,Skarch,1,7331
+2024-12-01,12,Tlaquepaque,Jarritos,1,6342
+2024-12-01,12,Tonalá,Sidral Aga,1,6331
+2024-12-01,12,Tonalá,Squirt,1,6379
+2024-12-01,12,Tonalá,Zubba,1,5908
+2024-12-01,12,Tonalá,Red Cola,1,6356
+2024-12-01,12,Tonalá,Caballitos,1,6383
+2024-12-01,12,Tonalá,Skarch,1,6653
+2024-12-01,12,Tonalá,Jarritos,1,6361
+2024-12-01,12,Tlajomulco,Sidral Aga,1,6744
+2024-12-01,12,Tlajomulco,Squirt,1,6096
+2024-12-01,12,Tlajomulco,Zubba,1,6513
+2024-12-01,12,Tlajomulco,Red Cola,1,6177
+2024-12-01,12,Tlajomulco,Caballitos,1,6061
+2024-12-01,12,Tlajomulco,Skarch,1,5885
+2024-12-01,12,Tlajomulco,Jarritos,1,6116
+2024-12-01,12,El Salto,Sidral Aga,1,6351
+2024-12-01,12,El Salto,Squirt,1,6543
+2024-12-01,12,El Salto,Zubba,1,6520
+2024-12-01,12,El Salto,Red Cola,1,7019
+2024-12-01,12,El Salto,Caballitos,1,7085
+2024-12-01,12,El Salto,Skarch,1,6668
+2024-12-01,12,El Salto,Jarritos,1,5891
+2024-12-01,12,Juanacatlán,Sidral Aga,1,6616
+2024-12-01,12,Juanacatlán,Squirt,1,5715
+2024-12-01,12,Juanacatlán,Zubba,1,6315
+2024-12-01,12,Juanacatlán,Red Cola,1,6298
+2024-12-01,12,Juanacatlán,Caballitos,1,6446
+2024-12-01,12,Juanacatlán,Skarch,1,6776
+2024-12-01,12,Juanacatlán,Jarritos,1,6756
+2024-12-01,12,Ixtlahuacán,Sidral Aga,1,6810
+2024-12-01,12,Ixtlahuacán,Squirt,1,6164
+2024-12-01,12,Ixtlahuacán,Zubba,1,5934
+2024-12-01,12,Ixtlahuacán,Red Cola,1,6181
+2024-12-01,12,Ixtlahuacán,Caballitos,1,6687
+2024-12-01,12,Ixtlahuacán,Skarch,1,6380
+2024-12-01,12,Ixtlahuacán,Jarritos,1,6904
+2024-12-01,12,Zapotlanejo,Sidral Aga,1,7289
+2024-12-01,12,Zapotlanejo,Squirt,1,6624
+2024-12-01,12,Zapotlanejo,Zubba,1,5990
+2024-12-01,12,Zapotlanejo,Red Cola,1,6392
+2024-12-01,12,Zapotlanejo,Caballitos,1,7121
+2024-12-01,12,Zapotlanejo,Skarch,1,6524
+2024-12-01,12,Zapotlanejo,Jarritos,1,5835
